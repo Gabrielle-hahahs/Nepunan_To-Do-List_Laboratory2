@@ -1,4 +1,4 @@
-# Task Garden
+# To-Do
 
 A small to-do list website made with React and Tailwind CSS. The layout uses a calm garden-inspired color palette and a simple task list.
 
